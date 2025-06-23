@@ -37,7 +37,7 @@ pip install selenium openpyxl
 
 3. Run the scraper:
 ```bash
-python lasrera_scraper.py
+python scraper.py
 ```
 
 ## 📋 Dependencies
